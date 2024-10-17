@@ -1,0 +1,3 @@
+C:/Explore/VulkanCookbook/VulkanCookbook/cmake-build-debug/CMakeFiles/Ch01_Sample01_CMake.dir
+C:/Explore/VulkanCookbook/VulkanCookbook/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Explore/VulkanCookbook/VulkanCookbook/cmake-build-debug/CMakeFiles/rebuild_cache.dir

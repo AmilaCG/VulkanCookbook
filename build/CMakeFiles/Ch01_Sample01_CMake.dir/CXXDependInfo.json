@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Explore/VulkanCookbook/VulkanCookbook/build",
+	"dir-cur-src" : "C:/Explore/VulkanCookbook/VulkanCookbook",
+	"dir-top-bld" : "C:/Explore/VulkanCookbook/VulkanCookbook/build",
+	"dir-top-src" : "C:/Explore/VulkanCookbook/VulkanCookbook",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Explore\\VulkanCookbook\\VulkanCookbook\\src",
+		"vcpkg_installed\\x64-windows\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Explore/VulkanCookbook/VulkanCookbook/build/CMakeFiles/Ch01_Sample01_CMake.dir"
+}

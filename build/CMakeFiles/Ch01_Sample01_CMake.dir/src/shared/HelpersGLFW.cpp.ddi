@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Ch01_Sample01_CMake.dir/src/shared/HelpersGLFW.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

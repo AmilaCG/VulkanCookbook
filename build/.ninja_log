@@ -1,0 +1,10 @@
+# ninja log v6
+3	531	7508466027034446	CMakeFiles/Ch01_Sample01_CMake.dir/src/main.cpp.obj.ddi	7bd0f88ccfe6d8cf
+10	535	7508466027034446	CMakeFiles/Ch01_Sample01_CMake.dir/src/shared/HelpersGLFW.cpp.obj.ddi	ec3f3a783210d4b6
+535	570	7508466032642321	CMakeFiles/Ch01_Sample01_CMake.dir/CXX.dd	fcc0f3ea724a2066
+535	570	7508466032642321	C:/Explore/VulkanCookbook/VulkanCookbook/build/CMakeFiles/Ch01_Sample01_CMake.dir/CXXModules.json	fcc0f3ea724a2066
+535	570	7508466032642321	CMakeFiles/Ch01_Sample01_CMake.dir/src/main.cpp.obj.modmap	fcc0f3ea724a2066
+535	570	7508466032642321	CMakeFiles/Ch01_Sample01_CMake.dir/src/shared/HelpersGLFW.cpp.obj.modmap	fcc0f3ea724a2066
+579	1425	7508466032799997	CMakeFiles/Ch01_Sample01_CMake.dir/src/shared/HelpersGLFW.cpp.obj	46fee3a27bf802e6
+575	1429	7508466032642321	CMakeFiles/Ch01_Sample01_CMake.dir/src/main.cpp.obj	92046e400e0fd981
+1429	2050	7508466041258642	Ch01_Sample01_CMake.exe	1e667907c58d988

@@ -1,0 +1,8 @@
+{
+  "name" : "vulkan-cookbook",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "f5ec6f30ff70f04f841436a0f36600bdbabfcfbf",
+  "dependencies": [ {
+    "name": "glfw3"
+  } ]
+}

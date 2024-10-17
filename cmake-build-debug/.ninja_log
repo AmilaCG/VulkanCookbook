@@ -1,0 +1,4 @@
+# ninja log v6
+10	888	7508465521861735	CMakeFiles/Ch01_Sample01_CMake.dir/src/shared/HelpersGLFW.cpp.obj	d59c67d3aa661420
+4	890	7508465521810764	CMakeFiles/Ch01_Sample01_CMake.dir/src/main.cpp.obj	b1c6d823b47d2cdd
+890	1700	7508465530676000	Ch01_Sample01_CMake_Debug.exe	6e86700ae3735f9b
